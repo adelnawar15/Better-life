@@ -1,15 +1,1 @@
-{
-  "name": "Better Life",
-  "short_name": "Better Life",
-  "start_url": ".",
-  "display": "standalone",
-  "background_color": "#f5f1eb",
-  "theme_color": "#f5f1eb",
-  "icons": [
-    {
-      "src": "icon.svg",
-      "sizes": "any",
-      "type": "image/svg+xml"
-    }
-  ]
-}
+{"name":"Better Life","short_name":"Better Life","start_url":".","display":"standalone","background_color":"#f5f1eb","theme_color":"#f5f1eb","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
